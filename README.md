@@ -6,3 +6,5 @@ With **streamparty**, you can experience Netflix together with your friends from
 - A group chat: decide on what to watch and react to your favorite shows, as a group!
 - Merged recommendations: we merge the viewing profiles of all members of the party and get Netflix's most recommended shows and movies
 - Synchronized viewing: someone pauses? Netflix pauses for everyone. Someone changes episode? It changes for everyone. Someone presses "Skip intro"? Everyone skips the intro.
+- If watching on one device, can still make suggestions 
+- See what your friends are watching and how they rated things!
